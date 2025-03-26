@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is José Matheus
 ====================================================================================================================================
 
-systems developer
+Systems developer
 -----------------
 
 A simple and beginner programmer
@@ -9,7 +9,7 @@ A simple and beginner programmer
 * 🌍  I'm based in Itabaiana - Brasil
 * ✉️  You can contact me at [matheusvieira1404@gmail.com](mailto:matheusvieira1404@gmail.com)
 * 🧠  I'm learning Front - End
-* ⚡  Amante por resolver problemas
+* ⚡  Lover of solving problems
 
 <a href="https://www.github.com/matheus24046" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/matheus24046?logo=github&style=for-the-badge&color=64748b&labelColor=000000" /></a>
